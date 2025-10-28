@@ -1,19 +1,23 @@
 # NetflixGPT
 
-- created react app using vite
-- configured tailwindcss
+- Created react app using vite
+- Configured tailwindcss
+- Header
+- Login form
+- Sign-up form
 
 # Features
 
-- login/signup page
-  - sign in/sign up form
-  - redirect to browse page
-- browse page (after authentication)
-  - header
-  - trailer in background
-  - title and description
-  - movie suggestions
-    - movie lists \* N
+- Login/signup page
+  - Sign in/Sign up form
+  - Redirect to browse page
+- Browse page (after authentication)
+  - Header
+  - Main Movie
+    - trailer in background
+    - title and description
+    - movie suggestions
+      - movie lists \* N
 - NetflixGPT
-  - search bar
-  - movie suggestions
+  - Search Bar
+  - Movie suggestions
