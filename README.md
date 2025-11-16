@@ -38,7 +38,14 @@
 - GPT search page
 - GPT search bar
 - Multi-language feature
--
+- Get OpenAI API key
+- GPT search API call
+- Fetch GPT movie suggestions from TMDB
+- GPT slice, added data
+- Reused MovieList component
+- Memoization
+- Added .env file
+- Made our site responsive
 
 # Features
 
