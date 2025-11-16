@@ -24,3 +24,5 @@ export const SUPPORTED_LANGUAGES = [
 ];
 
 export const OPENAI_KEY = process.env.REACT_APP_OPENAI_KEY;
+
+export const FIREBASE_API_KEY = process.env.FIREBASE_API_KEY;
